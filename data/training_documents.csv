@@ -1,0 +1,25 @@
+text,label
+"Government certificate with valid registration number and official details",0
+"Bank statement containing correct account number and transaction details",0
+"Employee salary certificate issued by the company with verified information",0
+"College marks memo with student details and official signature",0
+"Insurance document containing valid policy number and customer information",0
+"Property document containing registration number and legal details",0
+"Passport application containing correct personal information",0
+"Official invoice containing company name invoice number and tax details",0
+"Loan application containing valid customer and financial information",0
+"Medical certificate issued by an authorized hospital",0
+"Forged certificate with altered marks and fake registration number",1
+"Bank statement with modified transaction amount and suspicious account details",1
+"Fake salary certificate containing incorrect employee information",1
+"Altered college marks memo with changed marks and forged signature",1
+"Fraudulent insurance document with modified policy information",1
+"Counterfeit property document containing fake registration details",1
+"Unauthorized passport document with mismatched personal information",1
+"Fake invoice with altered tax number and payment details",1
+"Fraudulent loan document with mismatched customer information",1
+"Forged medical certificate containing unauthorized signature",1
+"Duplicate certificate with suspicious registration number and altered information",1
+"Tampered bank document with changed transaction date and amount",1
+"Fake government document containing invalid identification details",1
+"Altered invoice with incorrect company and tax information",1
